@@ -1,0 +1,961 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.paradigm.xyz/investments
+summary:
+  portfolio_total: 103
+  in_network: 37
+  api_providers: 23
+  missing: 66
+  stubs_created: 0
+companies:
+- name: Nous Research
+  url: https://nousresearch.com
+  description: Open-source AI research lab building large language models.
+  sector: ai
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nous-research
+- name: Kalshi
+  url: https://kalshi.com
+  description: Regulated prediction market exchange for trading on real-world events.
+  sector: fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: kalshi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Zipline
+  url: https://www.zipline.com
+  description: Autonomous drone delivery for medical supplies and goods.
+  sector: robotics
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: zipline
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Citadel Securities
+  url: https://www.citadelsecurities.com
+  description: Global market maker and liquidity provider.
+  sector: fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: citadel-securities
+- name: SendCutSend
+  url: https://sendcutsend.com
+  description: On-demand custom sheet-metal and parts manufacturing.
+  sector: manufacturing
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sendcutsend
+- name: True Anomaly
+  url: https://www.trueanomaly.space
+  description: Space security and defense technology company.
+  sector: robotics
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: true-anomaly
+- name: Hyperliquid
+  url: https://hyperliquid.xyz
+  description: Decentralized perpetual futures exchange and L1.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: hyperliquid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Coinbase
+  url: https://www.coinbase.com
+  description: Publicly traded cryptocurrency exchange and financial platform.
+  sector: crypto-exchange
+  status: ipo
+  source: https://www.paradigm.xyz/investments
+  slug: coinbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tempo
+  url: https://tempo.xyz
+  description: Payments-focused blockchain.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: tempo
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Andromeda
+  url: https://andromeda.ai
+  sector: ai
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: andromeda
+- name: Stripe
+  url: https://stripe.com
+  description: Global payments and financial infrastructure platform.
+  sector: fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Uniswap
+  url: https://uniswap.org
+  description: Decentralized exchange protocol for token swaps.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: uniswap
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: 3Jane
+  url: https://www.3jane.xyz
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 3jane
+- name: Across
+  url: https://across.to
+  description: Cross-chain bridge and interoperability protocol.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: across
+- name: Agora
+  url: https://www.agora.finance
+  description: Stablecoin issuance infrastructure.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: agora
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: AI Arena
+  url: https://aiarena.io
+  description: AI-powered competitive fighting game.
+  sector: gaming
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ai-arena
+- name: Amber Group
+  url: https://www.ambergroup.io
+  description: Digital asset trading and financial services firm.
+  sector: crypto-finance
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amber-group
+- name: Argent
+  url: https://www.argent.xyz
+  description: Smart-contract crypto wallet.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: argent
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Axiom
+  url: https://www.axiom.xyz
+  description: ZK coprocessor for Ethereum.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: axiom
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Aztec
+  url: https://aztec.network
+  description: Privacy-focused zero-knowledge rollup.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aztec
+- name: Babylon Labs
+  url: https://babylonlabs.io
+  description: Bitcoin staking protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: babylon-labs
+- name: Bitso
+  url: https://bitso.com
+  description: Latin American cryptocurrency exchange.
+  sector: crypto-exchange
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: bitso
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Blast
+  url: https://blast.io
+  description: Ethereum layer-2 network with native yield.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: blast-network
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Blowfish
+  url: https://blowfish.xyz
+  description: Wallet transaction security and simulation.
+  sector: security
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blowfish
+- name: Blur
+  url: https://blur.io
+  description: NFT marketplace and aggregator for traders.
+  sector: nft
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: blur
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Chainalysis
+  url: https://www.chainalysis.com
+  description: Blockchain analytics and compliance platform.
+  sector: crypto-data
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: chainalysis
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Code4rena
+  url: https://code4rena.com
+  description: Competitive smart-contract security audit marketplace.
+  sector: security
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: code4rena
+- name: CoinSwitch
+  url: https://coinswitch.co
+  description: Indian cryptocurrency exchange and investing app.
+  sector: crypto-exchange
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coinswitch
+- name: Compound
+  url: https://compound.finance
+  description: Decentralized lending and borrowing protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: compound
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Conduit
+  url: https://conduit.xyz
+  description: Rollup deployment and infrastructure platform.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conduit
+- name: Cosmos
+  url: https://cosmos.network
+  description: Interoperable proof-of-stake blockchain ecosystem.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: cosmos
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BRL
+  url: https://brl.xyz
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brl
+- name: D3
+  url: https://d3.inc
+  description: Web3 domain and naming infrastructure.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: d3
+- name: Dework
+  url: https://dework.xyz
+  description: Web3-native project management and bounties.
+  sector: crypto-tools
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dework
+- name: Divine
+  url: https://divine.inc
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: divine
+- name: dYdX
+  url: https://dydx.exchange
+  description: Decentralized derivatives exchange.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: dydx
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ellipsis Labs
+  url: https://ellipsislabs.xyz
+  description: Solana on-chain order book (Phoenix).
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ellipsis-labs
+- name: Etherealize
+  url: https://www.etherealize.com
+  description: Institutional adoption of Ethereum.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: etherealize
+- name: Euler
+  url: https://www.euler.finance
+  description: Permissionless lending protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: euler
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Exponential
+  url: https://exponential.fi
+  description: DeFi investing and risk-rating platform.
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: exponential
+- name: Farcaster
+  url: https://www.farcaster.xyz
+  description: Decentralized social networking protocol.
+  sector: crypto-social
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: farcaster
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fireblocks
+  url: https://www.fireblocks.com
+  description: Digital asset custody and security infrastructure.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: fireblocks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flashbots
+  url: https://www.flashbots.net
+  description: MEV research and infrastructure for Ethereum.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: flashbots
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fractal
+  url: https://www.fractal.is
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fractal
+- name: Friend.tech
+  url: https://www.friend.tech
+  description: Social token application on Base.
+  sector: crypto-social
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: friendtech
+- name: Gauntlet
+  url: https://www.gauntlet.xyz
+  description: On-chain risk modeling and simulation.
+  sector: crypto-data
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gauntlet
+- name: Genesis Digital Assets
+  url: https://genesisdigitalassets.com
+  description: Industrial-scale Bitcoin mining.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genesis-digital-assets
+- name: Gitcoin
+  url: https://www.gitcoin.co
+  description: Funding platform for open-source and public goods.
+  sector: crypto-tools
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: gitcoin
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: GTE
+  url: https://www.gte.xyz
+  description: On-chain spot and perpetuals exchange.
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gte
+- name: Hang
+  url: https://www.hang.com
+  description: Brand loyalty and membership platform.
+  sector: consumer
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hang
+- name: Harmonic
+  url: https://harmonic.fun
+  description: AI for mathematical reasoning (Aristotle).
+  sector: ai
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: harmonic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Harmonic GG
+  url: https://harmonic.gg
+  sector: gaming
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: harmonic-gg
+- name: Irreducible
+  url: https://www.irreducible.com
+  description: Zero-knowledge cryptography and hardware (Binius).
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: irreducible
+- name: Ithaca
+  url: https://www.ithaca.xyz
+  description: Ethereum and DeFi research and product studio.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ithaca
+- name: Jambo
+  url: https://www.jambo.technology
+  description: Web3 mobile platform for emerging markets.
+  sector: crypto-consumer
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jambo
+- name: Keep Network
+  url: https://keep.network
+  description: Bitcoin bridging and threshold cryptography.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: keep-network
+- name: Kuru
+  url: https://kuru.io
+  description: On-chain central limit order book exchange.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kuru
+- name: Lido
+  url: https://lido.fi
+  description: Liquid staking protocol for Ethereum.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: lido
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lightspark
+  url: https://www.lightspark.com
+  description: Bitcoin Lightning Network payments infrastructure.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lightspark
+- name: Limit Break
+  url: https://limitbreak.com
+  description: Web3 free-to-own gaming studio.
+  sector: gaming
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: limit-break
+- name: Liquid
+  url: https://tryliquid.xyz
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: liquid
+- name: LootRush
+  url: https://www.lootrush.com
+  description: Web3 gaming asset rental marketplace.
+  sector: gaming
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lootrush
+- name: Mad Realities
+  url: https://madrealities.xyz
+  description: On-chain entertainment and media.
+  sector: consumer
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mad-realities
+- name: Magic Eden
+  url: https://magiceden.io
+  description: Multi-chain NFT marketplace.
+  sector: nft
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: magiceden
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MakerDAO
+  url: https://makerdao.com
+  description: Decentralized stablecoin (DAI) protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: makerdao
+- name: Matrixport
+  url: https://www.matrixport.com
+  description: Crypto financial services platform.
+  sector: crypto-finance
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: matrixport
+- name: Mesh Connect
+  url: https://www.meshconnect.com
+  description: Crypto connectivity and payments network.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mesh-connect
+- name: MetaDAO
+  url: https://metadao.fi
+  description: Futarchy-based on-chain governance.
+  sector: crypto-tools
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metadao
+- name: Monad
+  url: https://www.monad.xyz
+  description: High-performance EVM-compatible layer-1.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: monad
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MoonPay
+  url: https://www.moonpay.com
+  description: Crypto on-ramp and payments infrastructure.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moonpay
+- name: n3xt
+  url: https://n3xt.io
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: n3xt
+- name: Noble
+  url: https://www.noble.xyz
+  description: Native asset issuance for the Cosmos ecosystem.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noble
+- name: Noise
+  url: https://noise.xyz
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noise
+- name: o1 Labs
+  url: https://o1labs.org
+  description: Zero-knowledge protocol behind Mina.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: o1-labs
+- name: OpenSea
+  url: https://opensea.io
+  description: NFT marketplace.
+  sector: nft
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: opensea
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Optimism
+  url: https://www.optimism.io
+  description: Ethereum layer-2 optimistic rollup.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: optimism
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Opyn
+  url: https://www.opyn.co
+  description: DeFi options and derivatives protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: opyn
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Osmosis
+  url: https://osmosis.zone
+  description: Decentralized exchange in the Cosmos ecosystem.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: osmosis
+- name: Parallel
+  url: https://parallel.life
+  description: Sci-fi Web3 trading card game.
+  sector: gaming
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: parallel
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Phantom
+  url: https://phantom.app
+  description: Multi-chain crypto wallet.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: phantom
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Plural Finance
+  url: https://www.pluralfinance.com
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plural-finance
+- name: Privy
+  url: https://www.privy.io
+  description: Embedded wallet and authentication infrastructure (acquired by Stripe).
+  sector: crypto-infrastructure
+  status: acquired
+  source: https://www.paradigm.xyz/investments
+  slug: privy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rain
+  url: https://www.rain.com
+  description: Crypto-backed card issuing infrastructure.
+  sector: crypto-fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rain
+- name: Reflexer
+  url: https://reflexer.finance
+  description: Non-pegged stablecoin (RAI) protocol.
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reflexer
+- name: Revolut
+  url: https://www.revolut.com
+  description: Global neobank and financial super-app.
+  sector: fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ribbon
+  url: https://ribbon.finance
+  description: DeFi options and structured products (Aevo).
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: ribbon-finance
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rift
+  url: https://rift.trade
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rift
+- name: Royal
+  url: https://royal.io
+  description: Music royalty ownership via tokens.
+  sector: consumer
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: royal
+- name: Sky Mavis
+  url: https://skymavis.com
+  description: Studio behind Axie Infinity and the Ronin chain.
+  sector: gaming
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: ronin-network
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sorella Labs
+  url: https://sorellalabs.xyz
+  description: MEV mitigation and on-chain market design (Angstrom).
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sorella-labs
+- name: Spacemesh
+  url: https://spacemesh.io
+  description: Proof-of-space-time layer-1 blockchain.
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spacemesh
+- name: Standard Economics
+  url: https://www.standardeconomics.com
+  sector: crypto
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-economics
+- name: StarkWare
+  url: https://starkware.co
+  description: Zero-knowledge scaling technology (StarkNet).
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: starkware
+- name: Succinct
+  url: https://succinct.xyz
+  description: Zero-knowledge proving network (SP1).
+  sector: crypto-infrastructure
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: succinct
+- name: Symbiotic
+  url: https://symbiotic.fi
+  description: Permissionless restaking protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: symbiotic
+- name: Synthetix
+  url: https://synthetix.io
+  description: Derivatives liquidity protocol.
+  sector: crypto-defi
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: synthetix
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TaxBit
+  url: https://taxbit.com
+  description: Crypto tax and accounting compliance software.
+  sector: crypto-fintech
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: taxbit
+- name: Utopia Labs
+  url: https://utopialabs.com
+  description: On-chain payments and payroll.
+  sector: crypto-fintech
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: utopia-labs
+- name: Vana
+  url: https://www.vana.org
+  description: User-owned data network for AI.
+  sector: crypto-ai
+  status: active
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vana
+- name: Ventuals
+  url: https://ventuals.com
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ventuals
+- name: Wildcard
+  url: https://www.wildcardgame.com
+  description: Web3 competitive game.
+  sector: gaming
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wildcard
+- name: Yield Protocol
+  url: https://yieldprotocol.com
+  description: Fixed-rate DeFi lending protocol.
+  sector: crypto-defi
+  status: unknown
+  source: https://www.paradigm.xyz/investments
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yield-protocol
+- name: Zora
+  url: https://zora.co
+  description: On-chain protocol for creators and NFTs.
+  sector: nft
+  status: active
+  source: https://www.paradigm.xyz/investments
+  slug: zora
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
