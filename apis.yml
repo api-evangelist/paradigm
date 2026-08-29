@@ -12,6 +12,17 @@ description: >-
   new $1.2B fund in July 2026 aimed at the "technical frontier" including AI and robotics. Notable
   portfolio companies and protocols include Uniswap, Coinbase, Stripe, Optimism, Chainalysis, Fireblocks,
   Blur, Monad, Kalshi, and Zipline. Managing partners include Matt Huang and Alana Palmedo.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
