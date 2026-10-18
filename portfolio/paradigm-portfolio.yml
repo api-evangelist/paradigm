@@ -3,9 +3,9 @@ method: searched
 source: https://www.paradigm.xyz/investments
 summary:
   portfolio_total: 103
-  in_network: 103
-  api_providers: 46
-  missing: 0
+  in_network: 99
+  api_providers: 45
+  missing: 4
   stubs_created: 0
 companies:
 - name: Nous Research
@@ -103,10 +103,10 @@ companies:
   sector: ai
   status: unknown
   source: https://www.paradigm.xyz/investments
-  slug: andromeda
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: andromeda
+  suggested_slug: andromeda-ai
 - name: Stripe
   url: https://stripe.com
   description: Global payments and financial infrastructure platform.
@@ -194,7 +194,7 @@ companies:
   source: https://www.paradigm.xyz/investments
   slug: axiom
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: name-slug
 - name: Aztec
   url: https://aztec.network
@@ -439,10 +439,10 @@ companies:
   sector: crypto
   status: unknown
   source: https://www.paradigm.xyz/investments
-  slug: fractal
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: fractal
+  suggested_slug: fractal-is
 - name: Friend.tech
   url: https://www.friend.tech
   description: Social token application on Base.
@@ -580,7 +580,7 @@ companies:
   source: https://www.paradigm.xyz/investments
   slug: lido
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Lightspark
   url: https://www.lightspark.com
@@ -637,7 +637,7 @@ companies:
   sector: nft
   status: active
   source: https://www.paradigm.xyz/investments
-  slug: magiceden
+  slug: magic-eden
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -657,10 +657,10 @@ companies:
   sector: crypto-finance
   status: active
   source: https://www.paradigm.xyz/investments
-  slug: matrixport
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: matrixport
+  suggested_slug: matrixport-com
 - name: Mesh Connect
   url: https://www.meshconnect.com
   description: Crypto connectivity and payments network.
@@ -716,10 +716,10 @@ companies:
   sector: crypto-infrastructure
   status: active
   source: https://www.paradigm.xyz/investments
-  slug: noble
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: noble
+  suggested_slug: noble-xyz
 - name: Noise
   url: https://noise.xyz
   sector: crypto
@@ -735,7 +735,7 @@ companies:
   sector: crypto-infrastructure
   status: active
   source: https://www.paradigm.xyz/investments
-  slug: o1labs
+  slug: o1-labs
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -883,7 +883,7 @@ companies:
   sector: gaming
   status: active
   source: https://www.paradigm.xyz/investments
-  slug: ronin-network
+  slug: axie-infinity
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -972,7 +972,7 @@ companies:
   sector: crypto-fintech
   status: unknown
   source: https://www.paradigm.xyz/investments
-  slug: utopialabs
+  slug: utopia-labs
   in_network: true
   is_api_provider: false
   matched_by: domain

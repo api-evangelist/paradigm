@@ -1,4 +1,32 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: paradigm
-leads: []
+leads:
+- name: Andromeda
+  url: https://andromeda.ai
+  suggested_slug: andromeda-ai
+  sector: ai
+  source_vc: paradigm
+  source: https://www.paradigm.xyz/investments
+  stub_created: false
+- name: Fractal
+  url: https://www.fractal.is
+  suggested_slug: fractal-is
+  sector: crypto
+  source_vc: paradigm
+  source: https://www.paradigm.xyz/investments
+  stub_created: false
+- name: Matrixport
+  url: https://www.matrixport.com
+  suggested_slug: matrixport-com
+  sector: crypto-finance
+  source_vc: paradigm
+  source: https://www.paradigm.xyz/investments
+  stub_created: false
+- name: Noble
+  url: https://www.noble.xyz
+  suggested_slug: noble-xyz
+  sector: crypto-infrastructure
+  source_vc: paradigm
+  source: https://www.paradigm.xyz/investments
+  stub_created: false
